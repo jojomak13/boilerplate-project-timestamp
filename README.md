@@ -1,6 +1,7 @@
 
 # API Project: Timestamp Microservice for FCC
 
+[![Run on Repl.it](https://repl.it/badge/github/jojomak13/boilerplate-project-timestamp)](https://repl.it/github/jojomak13/boilerplate-project-timestamp)
 ### User stories:
 
 1. The API endpoint is `GET [project_url]/api/timestamp/:date_string?`
